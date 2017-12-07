@@ -15,7 +15,7 @@ commandline-app-deployment-2688294819-dk6rq login: soflab
 Password: 
 ```
 
-You will login to the command line of a Debiam machine:
+You will login to the command line of a Debian machine:
 ```
 commandline-app-deployment-2688294819-dk6rq login: soflab
 Password: 
